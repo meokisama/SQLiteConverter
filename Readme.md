@@ -11,3 +11,4 @@ This project use glide (https://github.com/Masterminds/glide). After cloning the
 ```
 $ glide install
 ```
+_Updated from yenthanh132's repo_
